@@ -42,6 +42,13 @@ This project aims to create a secure and decentralized system for document verif
 
 </----------------------------------Features And Requirements------------------------------------------------>
 
+## Screenshots
+
+## 🖥️ Upload Page
+./upload ss.png
+
+
+
 ## Features
 
 - Secure document verification using Blockchain and IPFS technologies
