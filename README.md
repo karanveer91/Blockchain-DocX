@@ -47,6 +47,8 @@ This project aims to create a secure and decentralized system for document verif
 ## 🖥️ Upload Page
 ./upload ss.png
 
+![Uploadss](./uploadss.png)
+
 
 
 ## Features
@@ -66,7 +68,7 @@ This project aims to create a secure and decentralized system for document verif
 ## Installation
 
 1. Clone this repository: 
-``https://github.com/Brave-source/document-verification-system.git``
+`https://github.com/karanveer91/Blockchain-DocX``
 
 
 2. Install the required packages:
