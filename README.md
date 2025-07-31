@@ -1,8 +1,46 @@
 
   <h3 align="center">BlockChain Based Documents Verfication System With-IPFS</h3>
 
+  # VeriChain - Blockchain-based Document Verification System
+
+VeriChain is a secure, transparent, and tamper-proof document verification system powered by blockchain technology. It ensures document authenticity by storing cryptographic proofs on the blockchain, allowing institutions and users to verify documents easily and safely.
+
+---
+
+## 🚀 Features
+
+- ✅ Upload and hash documents
+- 🔐 Store document hashes on blockchain (e.g., Ethereum / Polygon)
+- 📄 Verify authenticity of uploaded documents
+- 👤 User roles: Issuer, Verifier, and Receiver
+- 🌐 Web-based user interface
+- 🧾 Document history and verification logs
+
+---
+
+## 🏗️ Tech Stack
+
+| Layer        | Technology               |
+|-------------|--------------------------|
+| Frontend     | React.js / HTML / CSS     |
+| Backend      | Node.js / Express.js      |
+| Smart Contract | Solidity (Ethereum-based) |
+| Blockchain   | Ganache / Infura / Polygon |
+| Database     | MongoDB / IPFS (optional) |
+
+---
+
+## 📦 Installation
+
+1. **Clone the Repository**
+
+```bash
+git clone https://github.com/karanveer91/Blockchain-DocX
+
 
 This project aims to create a secure and decentralized system for document verification using Blockchain and InterPlanetary File System (IPFS) technologies. The system stores the hash of the documents in the Blockchain network and the documents themselves in the IPFS network. This ensures that the documents cannot be tampered with or altered, and they can be easily retrieved and verified by authorized parties.
+
+</----------------------------------Features And Requirements------------------------------------------------>
 
 ## Features
 
